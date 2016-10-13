@@ -1,2 +1,0 @@
-# gg-band
-gg smartband
